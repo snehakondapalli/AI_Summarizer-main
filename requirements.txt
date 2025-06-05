@@ -1,0 +1,9 @@
+torch
+transformers
+tiktoken
+groq
+streamlit
+pypdfium2
+python-docx
+nltk
+requests
